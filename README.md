@@ -22,7 +22,7 @@ by 16 to convert decimal values to hexadecimal, which gave me a much clearer und
 of how characters are represented in hex. Writing out each step helped reduce errors and 
 reinforced my grasp of the underlying conversion logic.
 
-### [Flowchart](images/nameInDisguise)
+### [Flowchart](images/nameInDisguise.png)
 ### Hand-Written Work
 [Conversions](images/conversion.jpg)
 
