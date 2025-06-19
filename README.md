@@ -23,6 +23,5 @@ of how characters are represented in hex. Writing out each step helped reduce er
 reinforced my grasp of the underlying conversion logic.
 
 ## [Flowchart](images/nameInDisguised.png)
-## Hand-Written Work
-[Conversions](images/conversions.jpg)
+## [Hand-Written Work](images/conversions.jpg)
 
