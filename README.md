@@ -12,6 +12,22 @@
 EXAMPLE:<br>
 e -> 101(ASCII) -> 101/16= 6(integer divison)-> 6*16 = 96 -> 101-96=5 -> hex = 65(e)
 
+## Conversion process for birth year to binary
+### Use integer division to perform successive division by 2
+1. Divide the number by 2 using integer division (ignore decimals)
+2. Record the remainder (1 if odd, 0 if even) -> any remainder that != 0 is counted as 1
+3. Repeat with the quotient until it reaches 0
+4. The binary is formed by reading the remainders from bottom to top
+
+EXAMPLE: <br>
+50/2 -> 25 R0
+25/2 -> 12 R1
+12/2 -> 6  R0
+6/2 -> 3   R0
+3/2 -> 1   R1
+1/2 -> 0   R1
+
+
 ## Challenges
 This exercise was mostly straightforward, especially the hex conversion steps, since they 
 followed a predictable pattern. However, one challenge I faced was keeping track of the 
