@@ -20,11 +20,11 @@ e -> 101(ASCII) -> 101/16= 6(integer divison)-> 6*16 = 96 -> 101-96=5 -> hex = 6
 4. The binary is formed by reading the remainders from bottom to top
 
 EXAMPLE: <br>
-50/2 -> 25 R0
-25/2 -> 12 R1
-12/2 -> 6  R0
-6/2 -> 3   R0
-3/2 -> 1   R1
+50/2 -> 25 R0 <br>
+25/2 -> 12 R1 <br>
+12/2 -> 6  R0 <br>
+6/2 -> 3   R0 <br>
+3/2 -> 1   R1 <br>
 1/2 -> 0   R1
 
 
