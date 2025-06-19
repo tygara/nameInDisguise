@@ -24,5 +24,5 @@ reinforced my grasp of the underlying conversion logic.
 
 ### [Flowchart](images/nameInDisguised.png)
 ### Hand-Written Work
-[Conversions](images/conversion.jpg)
+[Conversions](images/conversions.jpg)
 
