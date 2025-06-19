@@ -25,7 +25,8 @@ EXAMPLE: <br>
 12/2 -> 6  R0 <br>
 6/2 ->  3  R0 <br>
 3/2 ->  1  R1 <br>
-1/2 ->  0  R1
+1/2 ->  0  R1 <br>
+Result: 110010
 
 
 ## Challenges
